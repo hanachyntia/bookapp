@@ -1,3 +1,17 @@
+# Mini Project Praktikum Book App
+
+Nama  : Hana Chyntia Morama
+NIM   : 185150707111002
+Kelas : A
+
+Penjelasan :
+1. membuat project yang bernama bookapp 
+2. membuat database yg bernama "bookapp_lumen"
+3. melakukan setup pada file ENV
+4. mengaktifkan facades dan eloquent
+5. membuat migration yg berfungsi untuk membuat table database
+6. membuat seeder dan model lalu memanggil data nya melalui model. lalu, jalankan aplikasi
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
@@ -22,3 +36,5 @@ If you discover a security vulnerability within Lumen, please send an e-mail to 
 ## License
 
 The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
